@@ -97,8 +97,30 @@ Right now I am building an **exon-intron classification transformer**, which is 
 ## github evidence
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DebmalyaSen34&show_icons=true&hide_border=true&bg_color=00000000&title_color=14b8a6&icon_color=3b82f6&text_color=94a3b8" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebmalyaSen34&layout=compact&hide_border=true&bg_color=00000000&title_color=14b8a6&text_color=94a3b8" alt="Top languages" />
+  <a href="https://github.com/DebmalyaSen34">
+    <img src="https://github.com/DebmalyaSen34.png?size=140" width="140" alt="Debmalya Sen avatar" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DebmalyaSen34?tab=followers">
+    <img src="https://img.shields.io/github/followers/DebmalyaSen34?style=for-the-badge&label=Followers&color=14b8a6" alt="Followers" />
+  </a>
+  <a href="https://github.com/DebmalyaSen34?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDebmalyaSen34&query=%24.public_repos&style=for-the-badge&label=Public%20Repos&color=3b82f6" alt="Public repos" />
+  </a>
+  <a href="https://github.com/DebmalyaSen34?tab=stars">
+    <img src="https://img.shields.io/github/stars/DebmalyaSen34?affiliations=OWNER&style=for-the-badge&label=Stars&color=8b5cf6" alt="Stars" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DebmalyaSen34?tab=following">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDebmalyaSen34&query=%24.following&style=for-the-badge&label=Following&color=0f766e" alt="Following" />
+  </a>
+  <a href="https://github.com/DebmalyaSen34">
+    <img src="https://img.shields.io/badge/Open-GitHub%20Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="Open GitHub Profile" />
+  </a>
 </p>
 
 <p align="center">
