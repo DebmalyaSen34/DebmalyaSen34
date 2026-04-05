@@ -1,5 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:1d4ed8,100:14b8a6&text=Debmalya%20Sen&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Full-stack%20developer%20with%20a%20backend%20heart&descAlignY=58&animation=fadeIn" alt="Debmalya Sen banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:081c15,45:1d4ed8,100:14b8a6&text=Debmalya%20Sen&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=AI%2FML%20Researcher%20%7C%20Web%20Developer%20%7C%20Biotechnology%20Student&descAlignY=58&animation=fadeIn" alt="Debmalya Sen banner" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%2FML%20Research-0f172a?style=flat-square&logo=huggingface&logoColor=FFD21E" alt="AI/ML Research" />
+  <img src="https://img.shields.io/badge/Web%20Development-0f172a?style=flat-square&logo=vercel&logoColor=ffffff" alt="Web Development" />
+  <img src="https://img.shields.io/badge/AI%20x%20Biology-0f172a?style=flat-square&logo=googlescholar&logoColor=7dd3fc" alt="AI x Biology" />
 </p>
 
 <p align="center">
@@ -12,11 +18,17 @@
   <img src="https://komarev.com/ghpvc/?username=DebmalyaSen34&style=flat-square&color=0f766e" alt="Profile views" />
 </p>
 
-<h3 align="center">Building thoughtful web experiences, reliable backends, and data-driven ideas.</h3>
+<h3 align="center">I build at the intersection of machine learning, biology, and the web.</h3>
 
 <p align="center">
-  I enjoy turning curiosity into projects - from full-stack apps and backend systems to database-heavy builds,
-  algorithmic thinking, and machine learning experiments.
+  I am a biotechnology student who enjoys turning research-heavy ideas into working systems.
+  My work spans AI/ML research, full-stack web development, and biology-driven projects where models
+  are not just trained, but made usable through thoughtful interfaces and practical applications.
+</p>
+
+<p align="center">
+  Lately, I have been focused on sequence-aware modeling, publishing experiments and models on Hugging Face,
+  and building an exon-intron classification transformer.
 </p>
 
 <br />
@@ -24,35 +36,60 @@
 <table align="center">
   <tr>
     <td valign="top" width="33%">
-      <h3>Focus</h3>
-      <p>MERN stack, backend development, and clean product thinking.</p>
+      <h3>Research</h3>
+      <p>Working on machine learning problems with a strong interest in transformers, representation learning, and domain-specific modeling.</p>
     </td>
     <td valign="top" width="33%">
-      <h3>Exploring</h3>
-      <p>DBMS, algorithms, data science, and practical machine learning.</p>
+      <h3>Development</h3>
+      <p>Building full-stack web apps, APIs, dashboards, and tools that make technical work easier to use and share.</p>
     </td>
     <td valign="top" width="33%">
-      <h3>Off Screen</h3>
-      <p>Usually playing video games or sketching the next project idea.</p>
+      <h3>Biology</h3>
+      <p>Exploring projects where AI meets biotechnology, especially sequence classification and research-oriented bioinformatics ideas.</p>
     </td>
   </tr>
 </table>
 
-## Stack I Like Working With
+## Current Focus
+
+- Building an exon-intron classification transformer
+- Publishing and iterating on ML models and experiments on Hugging Face
+- Creating web-based tools and interfaces for AI-powered projects
+- Exploring how biology, data, and software can work together in practical products
+
+## Tech Stack
+
+### Machine Learning and Research
+
+<p>
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-111827?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/scikit--learn-111827?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=FFFFFF" alt="Pandas" />
+</p>
+
+### Web Development
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" />
   <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=5FA04E" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
+
+### Also Comfortable With
+
+<p>
+  <img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" />
+  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
 </p>
 
 ## GitHub Snapshot
@@ -63,5 +100,5 @@
 </p>
 
 <p align="center">
-  <i>Simple ideas, solid systems, and a constant urge to keep learning.</i>
+  <i>Research-minded, product-driven, and always building where AI can meet real-world biology.</i>
 </p>
