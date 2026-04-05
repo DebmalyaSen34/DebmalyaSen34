@@ -1,12 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:081c15,45:1d4ed8,100:14b8a6&text=Debmalya%20Sen&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=AI%2FML%20Researcher%20%7C%20Web%20Developer%20%7C%20Biotechnology%20Student&descAlignY=58&animation=fadeIn" alt="Debmalya Sen banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0b132b,45:1c2541,100:5bc0be&text=Debmalya%20Sen&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=teaching%20transformers%20biology%20and%20teaching%20websites%20manners&descAlignY=58&animation=fadeIn" alt="Debmalya Sen banner" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%2FML%20Research-0f172a?style=flat-square&logo=huggingface&logoColor=FFD21E" alt="AI/ML Research" />
-  <img src="https://img.shields.io/badge/Web%20Development-0f172a?style=flat-square&logo=vercel&logoColor=ffffff" alt="Web Development" />
-  <img src="https://img.shields.io/badge/AI%20x%20Biology-0f172a?style=flat-square&logo=googlescholar&logoColor=7dd3fc" alt="AI x Biology" />
-</p>
+<h3 align="center">biotechnology student • ai/ml tinkerer • web developer • part-time bug negotiator</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/debmalya-sen-640aa2268/">
@@ -18,48 +14,54 @@
   <img src="https://komarev.com/ghpvc/?username=DebmalyaSen34&style=flat-square&color=0f766e" alt="Profile views" />
 </p>
 
-<h3 align="center">I build at the intersection of machine learning, biology, and the web.</h3>
+```text
+currently mixing:
+  1 part biotechnology
+  1 part machine learning
+  1 part web development
+results may include:
+  - transformers reading DNA
+  - full-stack apps with suspicious amounts of Python
+  - me explaining to CSS that we are not enemies
+```
 
-<p align="center">
-  I am a biotechnology student who enjoys turning research-heavy ideas into working systems.
-  My work spans AI/ML research, full-stack web development, and biology-driven projects where models
-  are not just trained, but made usable through thoughtful interfaces and practical applications.
-</p>
+## hello there
 
-<p align="center">
-  Lately, I have been focused on sequence-aware modeling, publishing experiments and models on Hugging Face,
-  and building an exon-intron classification transformer.
-</p>
+I am Debmalya, a biotechnology student who somehow ended up making biology talk to transformers and browsers talk to databases.
 
-<br />
+I do AI/ML research, build web apps, put models on Hugging Face, and spend a concerning amount of time on projects where biology and code are forced to become friends.
 
-<table align="center">
+Right now I am building an **exon-intron classification transformer**, which is exactly as niche and fun as it sounds.
+
+## my whole thing
+
+<table>
   <tr>
     <td valign="top" width="33%">
-      <h3>Research</h3>
-      <p>Working on machine learning problems with a strong interest in transformers, representation learning, and domain-specific modeling.</p>
+      <h3>In the lab</h3>
+      <p>I work on AI/ML ideas, sequence-based problems, and research projects where the data is biological and the GPU is under emotional stress.</p>
     </td>
     <td valign="top" width="33%">
-      <h3>Development</h3>
-      <p>Building full-stack web apps, APIs, dashboards, and tools that make technical work easier to use and share.</p>
+      <h3>On the web</h3>
+      <p>I build interfaces, backends, and tools so research projects do not have to live their whole lives as lonely notebooks.</p>
     </td>
     <td valign="top" width="33%">
-      <h3>Biology</h3>
-      <p>Exploring projects where AI meets biotechnology, especially sequence classification and research-oriented bioinformatics ideas.</p>
+      <h3>In my head</h3>
+      <p>I am usually thinking about transformers, product ideas, biology, and why one missing semicolon can alter destiny.</p>
     </td>
   </tr>
 </table>
 
-## Current Focus
+## what i am probably doing right now
 
-- Building an exon-intron classification transformer
-- Publishing and iterating on ML models and experiments on Hugging Face
-- Creating web-based tools and interfaces for AI-powered projects
-- Exploring how biology, data, and software can work together in practical products
+- training or tweaking ML models and pretending the loss curve is a personality test
+- pushing models and experiments to Hugging Face
+- building AI + biology projects that sound made up until they start working
+- making web apps so the research does not look like it was deployed from 2009
 
-## Tech Stack
+## tools i use to commit science and software
 
-### Machine Learning and Research
+### for machine learning things
 
 <p>
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
@@ -71,7 +73,7 @@
   <img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=FFFFFF" alt="Pandas" />
 </p>
 
-### Web Development
+### for making the internet behave
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
@@ -84,7 +86,7 @@
   <img src="https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
-### Also Comfortable With
+### bonus round
 
 <p>
   <img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" alt="C++" />
@@ -92,13 +94,13 @@
   <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
 </p>
 
-## GitHub Snapshot
+## github evidence
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DebmalyaSen34&show_icons=true&hide_border=true&bg_color=00000000&title_color=0f766e&icon_color=2563eb&text_color=475569" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebmalyaSen34&layout=compact&hide_border=true&bg_color=00000000&title_color=0f766e&text_color=475569" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DebmalyaSen34&show_icons=true&hide_border=true&bg_color=00000000&title_color=14b8a6&icon_color=3b82f6&text_color=94a3b8" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebmalyaSen34&layout=compact&hide_border=true&bg_color=00000000&title_color=14b8a6&text_color=94a3b8" alt="Top languages" />
 </p>
 
 <p align="center">
-  <i>Research-minded, product-driven, and always building where AI can meet real-world biology.</i>
+  <i>if biology has patterns, i want to model them. if software needs a UI, i want to build it.</i>
 </p>
