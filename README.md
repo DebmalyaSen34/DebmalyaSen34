@@ -1,128 +1,104 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0b132b,45:1c2541,100:5bc0be&text=Debmalya%20Sen&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=teaching%20transformers%20biology%20and%20teaching%20websites%20manners&descAlignY=58&animation=fadeIn" alt="Debmalya Sen banner" />
-</p>
+# whoami
+I am **Debmalya Sen**. Used to be a student. Learnt programming because I needed something I can control. You wouldn't believe me if I told you that I wrote code without AI back in the starting days. Right? Unbelievable!
 
-<h3 align="center">biotechnology student • ai/ml tinkerer • web developer • part-time bug negotiator</h3>
+Some quotes (by me):
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/debmalya-sen-640aa2268/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/iam_batman.30/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=DebmalyaSen34&style=flat-square&color=0f766e" alt="Profile views" />
-</p>
+> - They say `touch grass`, I say `sudo rm -rf /` and see who has more aura
+>
+>
+>
+> - Review your code often because we all deserve some laughter now and then
+
+# man me
 
 ```text
-currently mixing:
-  1 part biotechnology
-  1 part machine learning
-  1 part web development
-results may include:
-  - transformers reading DNA
-  - full-stack apps with suspicious amounts of Python
-  - me explaining to CSS that we are not enemies
+--experience
+        Software engineer intern @publicissapient where I
+        manifested AI agent for CI/CD pipelines well before agents were normalized.
+
+        I was responsible for the backend development which was written in python (FASTAPI)
+
+--languages
+        They say all programming languages are bad but without them I wouldn't have lived my dream of controlling little hex addresses to be my minions.
+
+        Examples:
+            - Python
+            - C++
+            - JavaScript
+            - Java
+
+--ai, --artificial-intelligence
+        When I look at today's AI models I fail to understand how a bloody machine is more intelligent than me? Something is gotta be wrong.
+        So I looked at the abyss for too long in search of my answers but to my amaze, the abyss didn't look back at me.
+        I learnt cool things though.
+        
+        Examples:
+            - [Helium](https://github.com/DebmalyaSen34/HeliumLM)
+                A small language model (SLM) built by me from scratch trained on tinystories data from huggingface.
+                A transformer based architecture.
+                Trained for weeks on free compute.
+            - [Helium Agent](https://github.com/DebmalyaSen34/helium-agent)
+                A lightweight(hence the name) and highly customizable terminal AI agent that runs local models using llama.cpp.
+                Inspired by the simplicity of Pi Code I wanted to write my AI Agent that can do almost everything a production level corporate agent is capable of without the heavy dependency and greed.
+                Still many features are being added.
+            
+
+--machine-learning
+        I saw myself learn, others learn so naturally I was curious to see a machine learn.
+        I self taught myself everything about ML and made few projects which integrated **biology** and **ml**.
+        
+        Example:
+            - [https://github.com/DebmalyaSen34/pathway](Pathway)
+
+--web-dev
+        I started my programming journey with this domain and created many projects for fun and some for startup (yes, I was in a highly motivated group of people).
+        You can see my transitions from pure HTML to react and from react to fastapi(for backend ofcourse).
+        I am still doing this as one of my friend asked me to help in their companies website development.
+
+        Example:
+            - [Preperly](https://github.com/DebmalyaSen34/next-client-side)
+            A website for my startup which focused on prebooking of tables in restaurants and also prebooking of orders.
+            - [Aura](https://github.com/DebmalyaSen34/aura-io)
+            A website where you can post about your daily incidents and let an AI judge your incident and it will give you AURA points which can be +ve or -ve.
+            Your goal is to increase your AURA as much as possible.
+
+--hobbies
+        I play video games. A lot!
+        I read books. Not a lot!
+        I watch movies. A lot!
 ```
 
-## hello there
+# Something for you
 
-I am Debmalya, a biotechnology student who somehow ended up making biology talk to transformers and browsers talk to databases.
+```bash
+$ help
+```
 
-I do AI/ML research, build web apps, put models on Hugging Face, and spend a concerning amount of time on projects where biology and code are forced to become friends.
+<details>
+<summary><code>games --favorite</code></summary>
 
-Right now I am building an **exon-intron classification transformer**, which is exactly as niche and fun as it sounds.
+Sekiro taught me persistence.
+Dark Souls taught me pain.
+Linux taught me both simultaneously.
 
-## my whole thing
+</details>
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <h3>In the lab</h3>
-      <p>I work on AI/ML ideas, sequence-based problems, and research projects where the data is biological and the GPU is under emotional stress.</p>
-    </td>
-    <td valign="top" width="33%">
-      <h3>On the web</h3>
-      <p>I build interfaces, backends, and tools so research projects do not have to live their whole lives as lonely notebooks.</p>
-    </td>
-    <td valign="top" width="33%">
-      <h3>In my head</h3>
-      <p>I am usually thinking about transformers, product ideas, biology, and why one missing semicolon can alter destiny.</p>
-    </td>
-  </tr>
-</table>
+<details>
+<summary><code>cat motivation.txt</code></summary>
 
-## what i am probably doing right now
+```text
+You do not need motivation.
 
-- training or tweaking ML models and pretending the loss curve is a personality test
-- pushing models and experiments to Hugging Face
-- building AI + biology projects that sound made up until they start working
-- making web apps so the research does not look like it was deployed from 2009
+You need fewer tabs open.
+```
 
-## tools i use to commit science and software
+</details>
 
-### for machine learning things
+<details>
+<summary><code>sudo touch grass</code></summary>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-111827?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/scikit--learn-111827?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=FFFFFF" alt="Pandas" />
-</p>
+```text
+Permission denied
+```
 
-### for making the internet behave
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=5FA04E" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
-
-### bonus round
-
-<p>
-  <img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" />
-  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
-</p>
-
-## github evidence
-
-<p align="center">
-  <a href="https://github.com/DebmalyaSen34">
-    <img src="https://github.com/DebmalyaSen34.png?size=140" width="140" alt="Debmalya Sen avatar" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DebmalyaSen34?tab=followers">
-    <img src="https://img.shields.io/github/followers/DebmalyaSen34?style=for-the-badge&label=Followers&color=14b8a6" alt="Followers" />
-  </a>
-  <a href="https://github.com/DebmalyaSen34?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDebmalyaSen34&query=%24.public_repos&style=for-the-badge&label=Public%20Repos&color=3b82f6" alt="Public repos" />
-  </a>
-  <a href="https://github.com/DebmalyaSen34?tab=stars">
-    <img src="https://img.shields.io/github/stars/DebmalyaSen34?affiliations=OWNER&style=for-the-badge&label=Stars&color=8b5cf6" alt="Stars" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DebmalyaSen34?tab=following">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDebmalyaSen34&query=%24.following&style=for-the-badge&label=Following&color=0f766e" alt="Following" />
-  </a>
-  <a href="https://github.com/DebmalyaSen34">
-    <img src="https://img.shields.io/badge/Open-GitHub%20Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="Open GitHub Profile" />
-  </a>
-</p>
-
-<p align="center">
-  <i>if biology has patterns, i want to model them. if software needs a UI, i want to build it.</i>
-</p>
+</details>
